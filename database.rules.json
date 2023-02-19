@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "userdata": {
+      ".read": true,
+      ".write": false
+    }
+  }
+}
